@@ -8,12 +8,12 @@ Informationen zu dieser Liste findet ihr in unserem zugehörigen Artikel auf [da
 # Updates zu der Liste
 Betreibt ihr euren eigenen Server, oder kennt ihr einen Server den wir noch auf die Liste setzen sollen? 
 
-Erstell einfach und bequem einen Pull Request oder kontaktiert uns: [thorsten@datenschutzhelden.org](mailto:thorsten@datenschutzhelden.org)
+Erstell einfach und bequem einen Pull request oder kontaktiert uns: [thorsten@datenschutzhelden.org](mailto:thorsten@datenschutzhelden.org)
 
-# Vorgaben Pullrequests
+# Vorgaben Pull request
 Bitte gebt in der Commitmessage folgende Informationen mit an:
 * In welcher Beziehung steht ihr zu dem Server (Admin o.ä.)
-* Kontaktemailadresse (wenn ihr diese nicht öffentlich machen wollt, dann schreibt im Anschluss an einen Pullrequest bitte an [thorsten@datenschutzhelden.org](mailto:thorsten@datenschutzhelden.org) mit Angabe des Commit Codes (z.B. "de20123")
+* Kontaktemailadresse (wenn ihr diese nicht öffentlich machen wollt, dann schreibt im Anschluss an einen Pull request bitte an [thorsten@datenschutzhelden.org](mailto:thorsten@datenschutzhelden.org) mit Angabe des Commit Codes (z.B. "de20123")
 
 
 
