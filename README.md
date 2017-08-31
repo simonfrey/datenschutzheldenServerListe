@@ -16,8 +16,9 @@ Bitte gebt in der Commitmessage folgende Informationen mit an:
 * Kontaktemailadresse (wenn ihr diese nicht öffentlich machen wollt, dann schreibt im Anschluss an einen Pullrequest bitte an [thorsten@datenschutzhelden.org](mailto:thorsten@datenschutzhelden.org) mit Angabe des Commit Codes (z.B. "de20123")
 
 
-Danke für eure Mithilfe!
 
-- Eure Datenschutzhelden
+**Danke für eure Mithilfe!**
+
+-Eure Datenschutzhelden
 
 ![Datenschutzhelden Logo](https://datenschutzhelden.org/wp-content/uploads/2016/09/Maske-e1474920685668.png "Datenschutzhelden.org")
